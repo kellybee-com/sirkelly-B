@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sirkelly-B
+- 👋 Hi, I’m @Kellybee-com
 - 👀 I’m interested in ... solving tech problems and building apps
 - 🌱 I’m currently learning ... programming languages eg. python 
 - 💞️ I’m looking to collaborate on ... solving tech problem and support
